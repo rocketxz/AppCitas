@@ -34,7 +34,7 @@ Follow these steps to run the application in your local environment:
 ```
 
 > [!IMPORTANT]
-> If the project fails to run in your local environment follow the steps below:
+> Student internship if the project fails to run in your local environment follow the steps below:
 
 - Uninstall the expo-cli :
 
